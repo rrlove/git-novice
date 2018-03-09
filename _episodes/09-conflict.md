@@ -356,7 +356,7 @@ Version control's ability to merge conflicting changes
 >
 > - *Make changes* by appending the number `100` to a text file `numbers.txt`
 > - *Update remote* repository to match the local repository
-> - *Celebrate* your success with beer(s)
+> - *Celebrate* your success
 > - *Update local* repository to match the remote repository
 > - *Stage changes* to be committed
 > - *Commit changes* to the local repository
