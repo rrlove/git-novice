@@ -25,13 +25,13 @@ where `verb` is what we actually want to do. So here is how
 Dracula sets up his new laptop:
 
 ~~~
-$ git config --global user.name "Vlad Dracula"
-$ git config --global user.email "vlad@tran.sylvan.ia"
+$ git config --global user.name "Becca Love"
+$ git config --global user.email "rlove@myuni.edu"
 $ git config --global color.ui "auto"
 ~~~
 {: .bash}
 
-Please use your own name and email address instead of Dracula's.
+Please use your own name and email address instead of mine.
 This user name and email will be associated with your subsequent Git activity,
 which means that any changes pushed to
 [GitHub](http://github.com/),
